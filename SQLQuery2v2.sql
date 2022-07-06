@@ -1,3 +1,11 @@
+
+-- Queries used for Tableau Project
+
+
+
+
+
+
 Select *
 FROM PortfolioProject..CovidDeaths
 where continent is not null
